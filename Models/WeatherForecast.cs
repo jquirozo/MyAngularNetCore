@@ -1,6 +1,6 @@
 using System;
 
-namespace MyAngularNetCore
+namespace MyAngularNetCore.Models
 {
     public class WeatherForecast
     {
